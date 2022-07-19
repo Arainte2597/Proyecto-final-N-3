@@ -4,7 +4,7 @@
 }
 
 footer {
-  background-image: url(/img/fondo3.jpg);
+  background-image: url(../img/fondo3.jpg);
 }
 
 .footer {
@@ -14,7 +14,7 @@ footer {
 }
 
 header {
-  background-image: url(/img/fondo3.jpg);
+  background-image: url(../img/fondo3.jpg);
 }
 
 .boton, .botonCongelados, .botonPollo, .botonCerdo {
