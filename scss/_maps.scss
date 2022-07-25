@@ -8,12 +8,12 @@ $colores:(
 }
 .mainend h2{
     background-color: map-get($map:$colores , $key:secundario );
-    color: map-get($map:$colores , $key:terceario );
+    color: map-get($map:$colores , $key:primario );
 }
 .mainstart h2{
 
     background-color: map-get($map:$colores , $key:secundario );
-    color: map-get($map:$colores , $key:terceario );
+    color: map-get($map:$colores , $key:primario );
 }
 footer h2{
 

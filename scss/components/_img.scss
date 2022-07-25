@@ -16,14 +16,10 @@
     
     height: 10rem;
     width: 8rem;
+    object-fit: cover;
     
 }
-.redes{
-    display: flex;
-    justify-content: center;
-    margin: 20px;
 
-}
 .mainstart{
     background-image: url(../img/fondomadera2.jpg);
     
@@ -38,4 +34,11 @@
 }
 .contact{
     background-image: url(../img/fondomadera2.jpg);
+}
+img{
+    object-fit: cover;
+}
+.cardimg{
+    height: 300px;
+    
 }
